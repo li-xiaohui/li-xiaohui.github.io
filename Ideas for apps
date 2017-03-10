@@ -1,3 +1,12 @@
+Go with the Molemash tutorial with the following additions: 
+1. Count both hit and miss
+2. Level up after 5 hits. Fail this level after 5 misses
+3. Allow user to input name for saving purpose
+4. Allow user restart this level, save level and and start from begining
+5. Allow Syncing for leaderboard
+
 Display real-time traffic conditions on Google map
 Molemash tutorial : http://explore.appinventor.mit.edu/ai2/molemash
 Multi points navigation for tourists: http://appinventor.mit.edu/explore/displaying-maps.html
+
+
