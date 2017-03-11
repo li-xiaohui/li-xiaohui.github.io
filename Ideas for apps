@@ -1,5 +1,5 @@
 Go with the Molemash tutorial with the following additions: 
-1. Count both hit and miss
+1. Count both Good Apple and Bad Apple
 2. Level up after 5 hits. Fail this level after 5 misses
 3. Allow user to input name for saving purpose
 4. Allow user restart this level, save level and and start from begining
